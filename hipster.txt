@@ -1,2 +1,5 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+You can’t have great software without a great team, and most software teams behave like dysfunctional families. (Jim McCarthy) That’s the thing about people who think they hate computers. What they really hate is lousy programmers. (Larry Niven) Programmers are in a race with the Universe to create bigger and better idiot-proof programs, while the Universe is trying to create bigger and better idiots. So far the Universe is winning. (Rich Cook) Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (Bill Gates)
+
+
