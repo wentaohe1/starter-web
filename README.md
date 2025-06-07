@@ -6,3 +6,4 @@ this is an introduction
 ## Purpose
 
 Sample website with plenty of files for demos
+###Copyright
